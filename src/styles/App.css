@@ -1,0 +1,16 @@
+body {
+    transition: all linear 0.2s;
+}
+
+.dark-theme {
+    background-color: black;
+    color: white;
+}
+.light-theme {
+    background-color: white;
+    color: black;
+}
+
+.center-div {
+    text-align: center;
+}
